@@ -1,6 +1,7 @@
 def my_hash
   
-  hash1 = {"name" => "bloody legend"} 
+  hash1 = {"name" => "bloody legend", "height" => 188}
+  
   
 end
 
